@@ -1,0 +1,12 @@
+/** Style appliqué sur la div contenant le canvas **/
+#divCanvas {
+	background-color: #808080;
+	width: 800px;
+	height: 600px;
+	margin: auto;
+}
+
+#divInstructions {
+	width: 800px;
+	margin: auto;
+}
