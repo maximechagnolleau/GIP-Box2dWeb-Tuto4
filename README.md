@@ -1,1 +1,3 @@
-# GIP-Box2dWeb-Tuto4
+# Game in Progress
+
+## Box2d Web - Tuto 4 : jumping puzzle
